@@ -1,2 +1,2 @@
-# flask_lo_vedneellu
-rsfgsdfgvadfg
+# flask_notes
+Notes app
